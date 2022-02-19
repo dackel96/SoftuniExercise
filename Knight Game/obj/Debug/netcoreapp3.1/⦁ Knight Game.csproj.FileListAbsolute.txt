@@ -1,0 +1,14 @@
+D:\VISUAL STUDIOS\source\repos\MatrixExercises\⦁ Knight Game\bin\Debug\netcoreapp3.1\⦁ Knight Game.exe
+D:\VISUAL STUDIOS\source\repos\MatrixExercises\⦁ Knight Game\bin\Debug\netcoreapp3.1\⦁ Knight Game.deps.json
+D:\VISUAL STUDIOS\source\repos\MatrixExercises\⦁ Knight Game\bin\Debug\netcoreapp3.1\⦁ Knight Game.runtimeconfig.json
+D:\VISUAL STUDIOS\source\repos\MatrixExercises\⦁ Knight Game\bin\Debug\netcoreapp3.1\⦁ Knight Game.runtimeconfig.dev.json
+D:\VISUAL STUDIOS\source\repos\MatrixExercises\⦁ Knight Game\bin\Debug\netcoreapp3.1\⦁ Knight Game.dll
+D:\VISUAL STUDIOS\source\repos\MatrixExercises\⦁ Knight Game\bin\Debug\netcoreapp3.1\⦁ Knight Game.pdb
+D:\VISUAL STUDIOS\source\repos\MatrixExercises\⦁ Knight Game\obj\Debug\netcoreapp3.1\⦁ Knight Game.csproj.AssemblyReference.cache
+D:\VISUAL STUDIOS\source\repos\MatrixExercises\⦁ Knight Game\obj\Debug\netcoreapp3.1\⦁ Knight Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIOS\source\repos\MatrixExercises\⦁ Knight Game\obj\Debug\netcoreapp3.1\⦁ Knight Game.AssemblyInfoInputs.cache
+D:\VISUAL STUDIOS\source\repos\MatrixExercises\⦁ Knight Game\obj\Debug\netcoreapp3.1\⦁ Knight Game.AssemblyInfo.cs
+D:\VISUAL STUDIOS\source\repos\MatrixExercises\⦁ Knight Game\obj\Debug\netcoreapp3.1\⦁ Knight Game.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIOS\source\repos\MatrixExercises\⦁ Knight Game\obj\Debug\netcoreapp3.1\⦁ Knight Game.dll
+D:\VISUAL STUDIOS\source\repos\MatrixExercises\⦁ Knight Game\obj\Debug\netcoreapp3.1\⦁ Knight Game.pdb
+D:\VISUAL STUDIOS\source\repos\MatrixExercises\⦁ Knight Game\obj\Debug\netcoreapp3.1\⦁ Knight Game.genruntimeconfig.cache
