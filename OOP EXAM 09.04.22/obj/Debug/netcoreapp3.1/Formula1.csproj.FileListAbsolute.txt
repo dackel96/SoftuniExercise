@@ -1,0 +1,14 @@
+D:\EXAM 09.04.2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.exe
+D:\EXAM 09.04.2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.deps.json
+D:\EXAM 09.04.2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.json
+D:\EXAM 09.04.2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.dev.json
+D:\EXAM 09.04.2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.dll
+D:\EXAM 09.04.2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.pdb
+D:\EXAM 09.04.2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.AssemblyReference.cache
+D:\EXAM 09.04.2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+D:\EXAM 09.04.2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfoInputs.cache
+D:\EXAM 09.04.2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfo.cs
+D:\EXAM 09.04.2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.CoreCompileInputs.cache
+D:\EXAM 09.04.2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.dll
+D:\EXAM 09.04.2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.pdb
+D:\EXAM 09.04.2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.genruntimeconfig.cache
