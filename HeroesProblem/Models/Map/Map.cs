@@ -6,48 +6,62 @@
     using Utilities;
     public class Map : IMap
     {
+        public Map()
+        {
+        }
         public string Fight(ICollection<IHero> players)
         {
-            string results = null;
+            string results = string.Empty;
             List<IHero> barbarians = players.Where(x => x.GetType().Name == "Barbarian").ToList();
             List<IHero> knights = players.Where(x => x.GetType().Name == "Knight").ToList();
-            int barbariansDeathBodies = 0;
-            int knightsDeathBodies = 0;
-            while (true)
+            bool isSomeoneWin = false;
+            while (!isSomeoneWin)
             {
-                for (int i = 0; i < knights.Count; i++)
+                foreach (var knight in knights)
                 {
-                    if (barbarians[i].IsAlive)
+                    foreach (var barbarian in barbarians)
                     {
-                        barbarians[i].TakeDamage(knights[i].Weapon.DoDamage());
-                        if (!barbarians[i].IsAlive)
+                        if (barbarian.IsAlive && barbarian.Weapon != null && knight.Weapon != null)
                         {
-                            barbariansDeathBodies++;
-                            barbarians.Remove(barbarians[i]);
+                            barbarian.TakeDamage(knight.Weapon.DoDamage());
                         }
                     }
                 }
-                if (!barbarians.Any())
+                if (barbarians.All(x => x.IsAlive == false))
                 {
-                    results = string.Format(OutputMessages.KnightsWin, knightsDeathBodies);
-                    break;
-                }
-                for (int i = 0; i < barbarians.Count; i++)
-                {
-                    if (knights[i].IsAlive)
+                    int deaths = 0;
+                    foreach (var knight in knights)
                     {
-                        knights[i].TakeDamage(barbarians[i].Weapon.DoDamage());
-                        if (!knights[i].IsAlive)
+                        if (knight.IsAlive == false)
                         {
-                            knightsDeathBodies++;
-                            knights.Remove(knights[i]);
+                            deaths++;
+                        }
+                    }
+                    results = string.Format(OutputMessages.KnightsWin, deaths);
+                    isSomeoneWin = true;
+                }
+                foreach (var barbarian in barbarians)
+                {
+                    foreach (var knight in knights)
+                    {
+                        if (knight.IsAlive && knight.Weapon != null && barbarian.Weapon != null)
+                        {
+                            knight.TakeDamage(barbarian.Weapon.DoDamage());
                         }
                     }
                 }
-                if (!knights.Any())
+                if (knights.All(x => x.IsAlive == false))
                 {
-                    results = string.Format(OutputMessages.BarbariansWin, barbariansDeathBodies);
-                    break;
+                    int deaths = 0;
+                    foreach (var barbarian in barbarians)
+                    {
+                        if (barbarian.IsAlive == false)
+                        {
+                            deaths++;
+                        }
+                    }
+                    results = string.Format(OutputMessages.BarbariansWin, deaths);
+                    isSomeoneWin = true;
                 }
             }
             return results;

@@ -39,7 +39,11 @@
             protected set
             {
                 this.durability = value;
-                if (this.durability < 0)
+                if (this.durability <= 0)
+                {
+                    this.durability = 0;
+                }
+                else if (this.durability < 0)
                 {
                     throw new ArgumentException(ExceptionMessages.DurabilityBelowZeroException);
                 }

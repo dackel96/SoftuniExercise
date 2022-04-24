@@ -12,9 +12,9 @@
 
         protected Hero(string name, int health, int armour)
         {
-            Name = name;
-            Health = health;
-            Armour = armour;
+            this.Name = name;
+            this.Health = health;
+            this.Armour = armour;
         }
 
         public string Name
@@ -84,7 +84,7 @@
         }
 
         public bool IsAlive
-            => this.Health == 0 ? true : false;
+            => this.Health > 0 ? true : false;
 
         public void AddWeapon(IWeapon weapon)
         {
@@ -97,13 +97,30 @@
 
         public void TakeDamage(int points)
         {
-            if (this.Armour > 0)
+            if (this.IsAlive)
             {
-                this.Armour -= points;
-            }
-            else if (this.Armour == 0 && this.Health > 0)
-            {
-                this.Health -= points;
+                if (this.Armour > 0)
+                {
+                    if (this.Armour - points < 0)
+                    {
+                        this.Armour = 0;
+                    }
+                    else
+                    {
+                        this.Armour -= points;
+                    }
+                }
+                else if (this.Armour == 0 && this.Health > 0)
+                {
+                    if (this.Health - points < 0)
+                    {
+                        this.Health = 0;
+                    }
+                    else
+                    {
+                        this.Health -= points;
+                    }
+                }
             }
         }
     }

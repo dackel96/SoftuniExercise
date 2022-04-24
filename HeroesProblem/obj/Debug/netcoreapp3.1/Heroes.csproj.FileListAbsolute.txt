@@ -1,0 +1,14 @@
+D:\EXAM 09.04.2022\practice\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.exe
+D:\EXAM 09.04.2022\practice\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.deps.json
+D:\EXAM 09.04.2022\practice\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+D:\EXAM 09.04.2022\practice\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+D:\EXAM 09.04.2022\practice\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.dll
+D:\EXAM 09.04.2022\practice\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.pdb
+D:\EXAM 09.04.2022\practice\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.AssemblyReference.cache
+D:\EXAM 09.04.2022\practice\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+D:\EXAM 09.04.2022\practice\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+D:\EXAM 09.04.2022\practice\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+D:\EXAM 09.04.2022\practice\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+D:\EXAM 09.04.2022\practice\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
+D:\EXAM 09.04.2022\practice\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
+D:\EXAM 09.04.2022\practice\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache
