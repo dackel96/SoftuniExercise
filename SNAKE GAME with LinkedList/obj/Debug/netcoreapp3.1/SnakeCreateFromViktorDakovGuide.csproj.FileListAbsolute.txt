@@ -1,0 +1,14 @@
+E:\NEW VS FOLDER\source\repos\SnakeCreateFromViktorDakovGuide\SnakeCreateFromViktorDakovGuide\bin\Debug\netcoreapp3.1\SnakeCreateFromViktorDakovGuide.exe
+E:\NEW VS FOLDER\source\repos\SnakeCreateFromViktorDakovGuide\SnakeCreateFromViktorDakovGuide\bin\Debug\netcoreapp3.1\SnakeCreateFromViktorDakovGuide.deps.json
+E:\NEW VS FOLDER\source\repos\SnakeCreateFromViktorDakovGuide\SnakeCreateFromViktorDakovGuide\bin\Debug\netcoreapp3.1\SnakeCreateFromViktorDakovGuide.runtimeconfig.json
+E:\NEW VS FOLDER\source\repos\SnakeCreateFromViktorDakovGuide\SnakeCreateFromViktorDakovGuide\bin\Debug\netcoreapp3.1\SnakeCreateFromViktorDakovGuide.runtimeconfig.dev.json
+E:\NEW VS FOLDER\source\repos\SnakeCreateFromViktorDakovGuide\SnakeCreateFromViktorDakovGuide\bin\Debug\netcoreapp3.1\SnakeCreateFromViktorDakovGuide.dll
+E:\NEW VS FOLDER\source\repos\SnakeCreateFromViktorDakovGuide\SnakeCreateFromViktorDakovGuide\bin\Debug\netcoreapp3.1\SnakeCreateFromViktorDakovGuide.pdb
+E:\NEW VS FOLDER\source\repos\SnakeCreateFromViktorDakovGuide\SnakeCreateFromViktorDakovGuide\obj\Debug\netcoreapp3.1\SnakeCreateFromViktorDakovGuide.csproj.AssemblyReference.cache
+E:\NEW VS FOLDER\source\repos\SnakeCreateFromViktorDakovGuide\SnakeCreateFromViktorDakovGuide\obj\Debug\netcoreapp3.1\SnakeCreateFromViktorDakovGuide.GeneratedMSBuildEditorConfig.editorconfig
+E:\NEW VS FOLDER\source\repos\SnakeCreateFromViktorDakovGuide\SnakeCreateFromViktorDakovGuide\obj\Debug\netcoreapp3.1\SnakeCreateFromViktorDakovGuide.AssemblyInfoInputs.cache
+E:\NEW VS FOLDER\source\repos\SnakeCreateFromViktorDakovGuide\SnakeCreateFromViktorDakovGuide\obj\Debug\netcoreapp3.1\SnakeCreateFromViktorDakovGuide.AssemblyInfo.cs
+E:\NEW VS FOLDER\source\repos\SnakeCreateFromViktorDakovGuide\SnakeCreateFromViktorDakovGuide\obj\Debug\netcoreapp3.1\SnakeCreateFromViktorDakovGuide.csproj.CoreCompileInputs.cache
+E:\NEW VS FOLDER\source\repos\SnakeCreateFromViktorDakovGuide\SnakeCreateFromViktorDakovGuide\obj\Debug\netcoreapp3.1\SnakeCreateFromViktorDakovGuide.dll
+E:\NEW VS FOLDER\source\repos\SnakeCreateFromViktorDakovGuide\SnakeCreateFromViktorDakovGuide\obj\Debug\netcoreapp3.1\SnakeCreateFromViktorDakovGuide.pdb
+E:\NEW VS FOLDER\source\repos\SnakeCreateFromViktorDakovGuide\SnakeCreateFromViktorDakovGuide\obj\Debug\netcoreapp3.1\SnakeCreateFromViktorDakovGuide.genruntimeconfig.cache
