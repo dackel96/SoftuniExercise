@@ -30,7 +30,7 @@ namespace P01_StudentSystem.Data
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder.UseSqlServer
-                    (@"Server=DESKTOP-73BH94J\SQLEXPRESS;Database=StudentSystem;Integrated Security=true;TrustServerCertificate=True;");
+                    (@"Server=.;Database=StudentSystem;Integrated Security=true;TrustServerCertificate=True;");
             }
             base.OnConfiguring(optionsBuilder);
         }

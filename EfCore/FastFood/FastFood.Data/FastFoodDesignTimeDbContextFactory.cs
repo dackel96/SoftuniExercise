@@ -12,7 +12,7 @@ namespace FastFood.Data
         {
             var builder = new DbContextOptionsBuilder<FastFoodContext>();
             //TODO Hide connection string
-            builder.UseSqlServer(@"Server=DESKTOP-73BH94J\SQLEXPRESS;Database=FastFood;Trusted_Connection=True;MultipleActiveResultSets=true");
+            builder.UseSqlServer(@"Server=.;Database=FastFood;Trusted_Connection=True;MultipleActiveResultSets=true");
             return new FastFoodContext(builder.Options);
         }
     }

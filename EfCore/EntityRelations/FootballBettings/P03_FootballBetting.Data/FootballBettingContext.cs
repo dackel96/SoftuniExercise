@@ -33,7 +33,7 @@ namespace P03_FootballBetting.Data
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder.UseSqlServer
-                    (@"Server=DESKTOP-73BH94J\SQLEXPRESS;Database=FootballBetting;Integrated Security=true;TrustServerCertificate=True;");
+                    (@"Server=.;Database=FootballBetting;Integrated Security=true;TrustServerCertificate=True;");
             }
             base.OnConfiguring(optionsBuilder);
         }
