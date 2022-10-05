@@ -1,0 +1,26 @@
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\bin\Debug\net6.0\appsettings.Development.json
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\bin\Debug\net6.0\appsettings.json
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\bin\Debug\net6.0\MVC Introduction.staticwebassets.runtime.json
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\bin\Debug\net6.0\MVC Introduction.exe
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\bin\Debug\net6.0\MVC Introduction.deps.json
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\bin\Debug\net6.0\MVC Introduction.runtimeconfig.json
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\bin\Debug\net6.0\MVC Introduction.dll
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\bin\Debug\net6.0\MVC Introduction.pdb
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\MVC Introduction.csproj.AssemblyReference.cache
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\MVC Introduction.GeneratedMSBuildEditorConfig.editorconfig
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\MVC Introduction.AssemblyInfoInputs.cache
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\MVC Introduction.AssemblyInfo.cs
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\MVC Introduction.csproj.CoreCompileInputs.cache
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\MVC Introduction.MvcApplicationPartsAssemblyInfo.cache
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\MVC Introduction.RazorAssemblyInfo.cache
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\MVC Introduction.RazorAssemblyInfo.cs
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\staticwebassets.build.json
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\staticwebassets.development.json
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\scopedcss\bundle\MVC Introduction.styles.css
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\scopedcss\projectbundle\MVC Introduction.bundle.scp.css
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\MVC Introduction.dll
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\refint\MVC Introduction.dll
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\MVC Introduction.pdb
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\MVC Introduction.genruntimeconfig.cache
+E:\SOFTUNI\06.ASP.NET Fundamentals - септември 2022\03.ASP.NET Core Introduction\MVC Introduction\MVC Introduction\obj\Debug\net6.0\ref\MVC Introduction.dll
